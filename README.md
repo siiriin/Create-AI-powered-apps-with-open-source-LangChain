@@ -2,7 +2,7 @@
 
 Author : Cognitive Class AI
 
-Mentee assignment from IBM Advance AI @ Infinite Learning Course completion of Creating Anime Characters using DCGANs and Keras from CognitiveClass.ai
+Mentee assignment from IBM Advance AI @ Infinite Learning Course completion of Create AI Powered Apps with Open Source LangChain from CognitiveClass.ai
 
 Mentee Info :
 - Name : Siiriin Nisrinaa
@@ -10,6 +10,6 @@ Mentee Info :
 
 Tech Stack:
 - LLM
-- Langchain
+- LangChain
 - OpenAI
 - Gradio
